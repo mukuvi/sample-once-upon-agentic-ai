@@ -27,4 +27,7 @@ dependencies = [
     # LangChain Integration
     "langchain_aws",
     "langchain_chroma",
+    
+    # Ollama Integration
+    "ollama",
 ]
